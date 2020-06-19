@@ -8,11 +8,8 @@ The link to my photography instagram is [@ngonewfriends](https://www.instagram.c
 
 Below I have selected some photos from my photography instagram.
 
-{{< instagram BzV_blcgOGm >}}
+{{< instagram BWNjjyYFxVx >}}
 
-{{< instagram Bzi-UylAbA >}}
-
-{{< instagram Bza6yTAAKKa >}}
 
 
 
