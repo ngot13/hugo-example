@@ -1,6 +1,6 @@
-baseURL = "https://secondpost.d1iwwwakr4m9k3.amplifyapp.com/"
+baseURL = "https://secondpost.d2bcmd6okt9e8w.amplifyapp.com/"
 languageCode = "en-us"
-title = "Tony's hugo site"
+title = "Serverless Site Example"
 # Edit your config.toml configuration file
 # and add the Ananke theme.
 theme = "ananke"
